@@ -1,4 +1,3 @@
-aaa
 pipeline {
     agent any
     environment {
